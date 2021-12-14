@@ -1,0 +1,8 @@
+C:\Users\sdp19\source\repos\Basics\Server\obj\Debug\netcoreapp3.1\Server.csproj.AssemblyReference.cache
+C:\Users\sdp19\source\repos\Basics\Server\obj\Debug\netcoreapp3.1\Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sdp19\source\repos\Basics\Server\obj\Debug\netcoreapp3.1\Server.AssemblyInfoInputs.cache
+C:\Users\sdp19\source\repos\Basics\Server\obj\Debug\netcoreapp3.1\Server.AssemblyInfo.cs
+C:\Users\sdp19\source\repos\Basics\Server\obj\Debug\netcoreapp3.1\Server.csproj.CoreCompileInputs.cache
+C:\Users\sdp19\source\repos\Basics\Server\obj\Debug\netcoreapp3.1\Server.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\sdp19\source\repos\Basics\Server\obj\Debug\netcoreapp3.1\Server.RazorAssemblyInfo.cache
+C:\Users\sdp19\source\repos\Basics\Server\obj\Debug\netcoreapp3.1\Server.RazorAssemblyInfo.cs
